@@ -4,3 +4,7 @@ node_js:
   - "7"
   - "8"
   - "node"
+addons:
+  apt:
+    packages:
+      - graphicsmagick
